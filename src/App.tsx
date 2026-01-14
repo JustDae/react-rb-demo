@@ -1,5 +1,3 @@
-import { useState } from 'react'
-
 import './App.css'
 import RBHero from './components/rb/RBHero'
 import RBCarousel from './components/rb/RBCarousel'
